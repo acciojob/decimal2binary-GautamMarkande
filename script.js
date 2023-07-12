@@ -6,6 +6,7 @@ function decimalToBinary(num) {
 		num = num/2;
 	}
 	console.log(ans);
+	return ans;
 }
 
 window.decimalToBinary = decimalToBinary;
